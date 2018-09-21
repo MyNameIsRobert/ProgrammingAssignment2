@@ -1,5 +1,13 @@
 // add header comment
-
+/*
+    Robert Clark
+    1071 -003
+    9/21/18
+    This program reads in ints from an
+    input.txt file, fills a 2D array with
+    values that it calculates from the read 
+    input
+*/
 #include <stdio.h>
 
 // #define for the number of columns
